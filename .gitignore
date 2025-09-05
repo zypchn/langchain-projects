@@ -1,4 +1,6 @@
-simple-coder-chatbot/venv
-simple-coder-chatbot/langchain.ipynb
 .venv
 .env
+simple-coder-chatbot/venv
+simple-coder-chatbot/langchain.ipynb
+chat-with-pdf/venv
+chat-with-pdf/dinosaurs.pdf
